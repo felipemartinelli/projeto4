@@ -1,0 +1,11 @@
+tr:hover {
+    border: 2px double red;
+}
+
+td {
+    border: 2px solid gray;
+} 
+
+th {
+    border: 2px solid gray;
+}
